@@ -1,0 +1,5 @@
+*.pdf
+DL Intro Lectures/
+__pycache__/
+api_key.txt
+*.zip
