@@ -8,4 +8,4 @@ GenAI_venv/
 test*
 *.pt
 *.de
-*.encit
+*.en
