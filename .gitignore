@@ -1,5 +1,9 @@
 *.pdf
 DL*Intro*Lectures/
 __pycache__/
-api_key/
+api_key*
 *.zip
+pss_files/
+GenAI_venv/
+test*
+GenAI_venv/
