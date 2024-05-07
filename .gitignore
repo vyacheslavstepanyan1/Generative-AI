@@ -1,6 +1,6 @@
 *.pdf
 DL*Intro*Lectures/
-__pycache__/
+__pycache__
 api_key*
 *.zip
 pss_files/
@@ -9,3 +9,11 @@ test*
 *.pt
 *.de
 *.en
+GenAI_project*
+Temporary
+logs
+.ipynb_checkpoints
+*.7z
+*.model
+*.vocab
+*.gz
